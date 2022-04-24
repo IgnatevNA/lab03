@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650801295 source:c:\users\ignat\desktop\lab03\bdg\histogram.cpp
+	"histogram.h"
+	<cstdlib>
+	<iostream>
+
+1650800081 c:\users\ignat\desktop\lab03\bdg\histogram.h
+	<vector>
+
+1650800692 source:c:\users\ignat\desktop\lab03\bdg\test.cpp
+	"histogram.h"
+	<cassert>
+
